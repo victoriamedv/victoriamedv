@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Javascript, Typescript, Web**
 - 📫 How to reach me: Email: **vikamed22@gmail.com** 
    Telegram:<a href="https://t.me/VictoriaMillu" target="blank">**@VictoriaMillu**</a>
-- 🌍 I speak English (B1)
+- 🌍 I speak English (B2)
 
 ### Connect with me:
 <p align="left">
