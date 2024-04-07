@@ -4,6 +4,8 @@
 
 
 - 🌱 I’m currently learning **Javascript, Typescript, Web**
+- My link projects on GitHub: <a src = "https://github.com/victoriamedv/JavaScriptNew">https://github.com/victoriamedv/JavaScriptNew</a>
+  
 - 📫 How to reach me: Email: **vikamed22@gmail.com** 
    Telegram:<a href="https://t.me/VictoriaMillu" target="blank">**@VictoriaMillu**</a>
 - 🌍 I speak English (B2)
